@@ -1130,6 +1130,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cedric/proprietary/vendor/lib64/vendor.qti.imsrtpservice@1.0-service-Impl.so:system/vendor/lib64/vendor.qti.imsrtpservice@1.0-service-Impl.so \
     vendor/motorola/cedric/proprietary/vendor/lib64/vendor.qti.imsrtpservice@1.0_vendor.so:system/vendor/lib64/vendor.qti.imsrtpservice@1.0_vendor.so \
     vendor/motorola/cedric/proprietary/framework/com.qualcomm.qti.imscmservice@1.0-java.jar:system/framework/com.qualcomm.qti.imscmservice@1.0-java.jar \
+    vendor/motorola/cedric/proprietary/framework/QtiTelephonyServicelibrary.jar:system/framework/QtiTelephonyServicelibrary.jar \
+    vendor/motorola/cedric/proprietary/framework/qcrilhook.jar:system/framework/qcrilhook.jar \
+    vendor/motorola/cedric/proprietary/framework/qti-telephony-common.jar:system/framework/qti-telephony-common.jar \
     vendor/motorola/cedric/proprietary/vendor/lib64/libsensorndkbridge.so:system/vendor/lib64/libsensorndkbridge.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libsdm-disp-apis.so:system/vendor/lib/libsdm-disp-apis.so \
     vendor/motorola/cedric/proprietary/vendor/lib64/libsdm-disp-apis.so:system/vendor/lib64/libsdm-disp-apis.so \
@@ -1157,9 +1160,6 @@ PRODUCT_PACKAGES += \
     embmslibrary \
     imscmlibrary \
     izat.xt.srv \
-    qti-telephony-common \
-    QtiTelephonyServicelibrary \
-    qcrilhook \
     cneapiclient \
     com.qti.location.sdk \
     com.qti.dpmframework \
