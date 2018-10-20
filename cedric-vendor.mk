@@ -1152,7 +1152,6 @@ PRODUCT_PACKAGES += \
     atfwd \
     TimeService \
     embms \
-    ims \
     imssettings \
     com.qualcomm.location \
     qcrilmsgtunnel \
