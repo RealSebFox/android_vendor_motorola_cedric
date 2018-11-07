@@ -1153,6 +1153,7 @@ PRODUCT_PACKAGES += \
     embms \
     imssettings \
     com.qualcomm.location \
+    ims \
     qcrilmsgtunnel \
     com.qti.snapdragon.sdk.display \
     embmslibrary \
