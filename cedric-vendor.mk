@@ -562,6 +562,7 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cedric/proprietary/vendor/lib/libdrplugin_client.so:system/vendor/lib/libdrplugin_client.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libdsi_netctrl.so:system/vendor/lib/libdsi_netctrl.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
+    vendor/motorola/cedric/proprietary/vendor/lib64/libFlacSwDec.so:system/vendor/lib64/libFlacSwDec.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libesepm.so:system/vendor/lib/libesepm.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libevent_observer.so:system/vendor/lib/libevent_observer.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \
@@ -931,6 +932,8 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cedric/proprietary/vendor/lib64/lib-rtpcore.so:system/vendor/lib64/lib-rtpcore.so \
     vendor/motorola/cedric/proprietary/vendor/lib64/lib-rtpdaemoninterface.so:system/vendor/lib64/lib-rtpdaemoninterface.so \
     vendor/motorola/cedric/proprietary/vendor/lib64/lib-rtpsl.so:system/vendor/lib64/lib-rtpsl.so \
+    vendor/motorola/cedric/proprietary/vendor/lib64/libAlacSwDec.so:system/vendor/lib64/libAlacSwDec.so \
+    vendor/motorola/cedric/proprietary/vendor/lib64/libApeSwDec.so:system/vendor/lib64/libApeSwDec.so \
     vendor/motorola/cedric/proprietary/vendor/lib64/libC2D2.so:system/vendor/lib64/libC2D2.so \
     vendor/motorola/cedric/proprietary/vendor/lib64/libCB.so:system/vendor/lib64/libCB.so \
     vendor/motorola/cedric/proprietary/vendor/lib64/libDiagService.so:system/vendor/lib64/libDiagService.so \
