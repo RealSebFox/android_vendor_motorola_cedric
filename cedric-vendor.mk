@@ -1146,7 +1146,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cedric/proprietary/vendor/lib64/libquipc_os_api.so:system/vendor/lib64/libquipc_os_api.so \
     vendor/motorola/cedric/proprietary/lib64/libxt_native.so:system/lib64/libxt_native.so \
     vendor/motorola/cedric/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:system/vendor/lib64/libxtwifi_ulp_adaptor.so \
-    vendor/motorola/cedric/proprietary/vendor/bin/lowi-server:system/vendor/bin/lowi-server
+    vendor/motorola/cedric/proprietary/vendor/bin/lowi-server:system/vendor/bin/lowi-server \
+    vendor/motorola/cedric/proprietary/lib/vendor.qti.hardware.fm@1.0.so:system/lib/vendor.qti.hardware.fm@1.0.so \
+    vendor/motorola/cedric/proprietary/lib64/vendor.qti.hardware.fm@1.0.so:system/lib64/vendor.qti.hardware.fm@1.0.so
 
 PRODUCT_PACKAGES += \
     atfwd \
