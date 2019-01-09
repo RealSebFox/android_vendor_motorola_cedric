@@ -608,6 +608,9 @@ PRODUCT_COPY_FILES += \
     vendor/motorola/cedric/proprietary/vendor/lib/libactuator_mot_ak7371.so:system/vendor/lib/libactuator_mot_ak7371.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libactuator_pseudo.so:system/vendor/lib/libactuator_pseudo.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libchromatix_ar1335_common.so:system/vendor/lib/libchromatix_ar1335_common.so \
+    vendor/motorola/cedric/proprietary/vendor/lib/libSonyDefocus.so:system/vendor/lib/libSonyDefocus.so \
+    vendor/motorola/cedric/proprietary/vendor/lib/libSonyDualPDLibrary.so:system/vendor/lib/libSonyDualPDLibrary.so \
+    vendor/motorola/cedric/proprietary/vendor/lib/libSonyDualPDParam.so:system/vendor/lib/libSonyDualPDParam.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libalarmservice_jni.so:system/vendor/lib/libalarmservice_jni.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libasn1cper.so:system/vendor/lib/libasn1cper.so \
     vendor/motorola/cedric/proprietary/vendor/lib/libasn1crt.so:system/vendor/lib/libasn1crt.so \
